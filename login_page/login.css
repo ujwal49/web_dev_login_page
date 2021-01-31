@@ -1,0 +1,219 @@
+.login_form{
+    position: absolute;
+    top: 30%;
+    left: 105%;    
+}
+
+input{
+    padding: 10px;
+    margin: 10px 0px;
+    width: 220px;
+    outline: none;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 25px;
+}
+
+.login_button{
+    width: 245px;
+    color:white;
+    background: blue;
+}
+
+.forgot_password{
+    text-align: center;
+    font-size: small;
+}
+a{
+    color: aliceblue;
+}
+
+body{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background-image: url("pc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 75% !important;
+    background-color: black;
+}
+
+.signup_page{
+    transform: translateX(+25%);
+    color: rgb(255, 255, 255);    
+}
+
+#top_text{
+    text-align: center;
+    color: white;
+    position: absolute;
+    left: 50%;
+}
+
+.text{
+    color:bisque;
+    transform: translate(+20%,60%);
+}
+
+
+
+
+.topnav a{
+    position: relative;
+    text-decoration: none;
+    float: right;    
+    padding: 14px 16px;
+    left: 28%;
+}
+
+#login_text{
+    color: white;
+    text-align: center;
+}
+
+#feedback1{
+    background-color:white;
+    width: 38%;
+    height: 35%;
+    top: 110%;
+    position: absolute;
+    left: 2%;
+    border-radius: 45px;
+}
+
+#feedback2{
+    background-color:white;
+    width: 38%;
+    height: 35%;
+    top: 110%;
+    position: absolute;
+    left: 47%;
+    border-radius: 45px;
+}
+
+#feedback3{
+    background-color: white;
+    width: 38%;
+    height: 35%;
+    top: 110%;
+    position: absolute;
+    left: 92%; 
+    border-radius: 45px;
+}
+
+.feedback{
+    text-align: center;
+}
+
+#fd1_picture{
+    width: 175px;
+    height: 175px;
+    border-radius: 100%;
+    background-color: green;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+
+#fd2_picture{
+    width: 175px;
+    height: 175px;
+    border-radius: 100%;
+    background-color: grey;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+
+#fd3_picture{
+    width: 175px;
+    height: 175px;
+    border-radius: 100%;
+    background-color:red;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+
+#side_text{
+    top: 40%;
+    left: 5%;
+    position: absolute;
+    color: white;
+}
+
+#trusted_customers{
+    color: white;
+    left: 55%;
+    top: 100%;
+    position: absolute;
+    text-align: center;
+}
+
+#fd1_text{
+    margin-top: -35%;
+    margin-left: 45%;
+    
+}
+
+#fd2_text{
+    margin-top: -35%;
+    margin-left: 45%;
+
+}
+
+#fd3_text{
+    margin-top: -35%;
+    margin-left: 45%;
+
+}
+
+.customer{
+    color: black;
+    margin-left: 65%;
+    margin-top: 5%;
+}
+
+.footer{
+    position: relative;
+    top:150%;
+    height:300px;
+    width: 132.6%;
+    color: grey;
+    background-color: black;
+}
+
+footer p {
+    color: grey;
+    text-decoration: none;
+}
+
+#copyright{
+    
+    margin-left: 10%;
+    margin-top: 5%;
+    position: absolute;
+    
+}
+
+#about{
+    
+    margin-top: 4%;
+    margin-left: 45%;
+    position: absolute;
+}
+
+#contact{
+    position: absolute;
+    margin-top: 4%;
+    margin-left: 60%;
+    
+    
+}
+
+#follow_us{
+    
+    margin-top: 4%;
+    margin-left: 75%;
+    
+    position: absolute;
+}
